@@ -48,9 +48,3 @@ projects:
 
 topics:
   - name: Automatic lyrics transcription using dilated convolutional neural networks
-    web_url: https://arxiv.org/abs/2007.06486
-   - name: MIREX2019 - Audio-to-Lyrics Alignment Challenge
-
-   - name: Automatic chord-scale detection using chroma features
-   
-   - name: Automatic makam recognition using harmonic pitch-class profiles
