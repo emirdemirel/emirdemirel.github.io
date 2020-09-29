@@ -48,3 +48,4 @@ projects:
 
 topics:
   - name: Automatic lyrics transcription using dilated convolutional neural networks
+    image_url:posts/transformer_hybrid/ASRhybridASR.png
