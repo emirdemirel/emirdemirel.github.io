@@ -47,10 +47,6 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Kaldi
-    web_url: hhttps://github.com/kaldi-asr/kaldi
- 
-publications:
   - name: Automatic lyrics transcription using dilated convolutional neural networks
     web_url: https://arxiv.org/abs/2007.06486
    - name: MIREX2019 - Audio-to-Lyrics Alignment Challenge
