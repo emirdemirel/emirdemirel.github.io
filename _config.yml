@@ -53,4 +53,4 @@ topics:
     description: Conference paper published in the Proceedings of IJCNN2020. Novel neural network architecture. State-of-the-art results in automatic lyrics transcription from monophonic recordings.
     
   - name: MIREX 2019 - Audio-to-Lyrics Alignment Challenge
-  
+    image_url: figures/mirex2019.png
