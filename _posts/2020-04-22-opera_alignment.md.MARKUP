@@ -1,0 +1,22 @@
+---
+layout: post
+title: Audio and phoneme alignment in live opera recordings
+subtitle: presented in ICAASP2020
+date: 2020-04-22
+author: Emir Demirel
+author-id: QMUL1
+background: /posts/transformer_hybridASR/
+--- 
+
+
+This is a work in collaboration with Charles Brazier. The video below is our presentation at ICAASP2020.
+
+{% include youtubePlayer.html id="hXtI2PVtvbI" %} <br />
+
+
+
+Any questions, please contact: <br />
+
+ e.demirel@qmul.ac.uk <br />
+
+

@@ -54,3 +54,11 @@ topics:
     
   - name: MIREX 2019 - Audio-to-Lyrics Alignment Challenge
     image_url: figures/mirex2019.png
+    web_url: https://www.music-ir.org/mirex/abstracts/2019/ED1.pdf
+
+  - name: Audio-aligned jazz harmony dataset for automatic chord transcription and corpus-based research
+    image_url: figures/jaah.png
+    web_url: https://repositori.upf.edu/handle/10230/36716
+
+
+
