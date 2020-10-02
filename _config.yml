@@ -28,23 +28,11 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+social_media:
+   linkedin: linkedin.com/in/emir-demirel-047465156
+   twitter: _emir_demirel_
+   website: http://your_website_url
+   youtube: https://youtube.com/channel/UCa9lfHGbWuWdtepbK6L7XkA
 
 topics:
   - name: Automatic lyrics transcription using dilated convolutional neural networks
