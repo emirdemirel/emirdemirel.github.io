@@ -66,4 +66,4 @@ topics:
     image_url: figures/creativecommons.png
     web_url: https://repositori.upf.edu/bitstream/handle/10230/34092/Meta-Research_Proceedings_2017.pdf?sequence=1&isAllowed=y#page=44
     description: An overreview on open source licensing types regarding intellectual properties, and specifically for research software. The social and economic implications of such licensing types are examined. Collaboration with Furkan Yesiler and Kaivon Jones. Stuff we did during Master at UPF.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
