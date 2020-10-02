@@ -11,7 +11,9 @@ background: /posts/transformer_hybridASR/
 
 This is a work in collaboration with Charles Brazier. The video below is our presentation at ICAASP2020.
 
-{% include youtubePlayer.html id="hXtI2PVtvbI" %} <br />
+This work explains the procedure and challenges when aligning live opera recordings with their musical score. This is especially difficult during 'recitative' sections. We propose to leverage phonemes to get good alignments.
+
+{% include youtubePlayer.html id="fSbkQriR0uk" %} <br />
 
 
 

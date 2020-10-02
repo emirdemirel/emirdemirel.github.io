@@ -36,17 +36,33 @@ social_media:
 
 topics:
   - name: Automatic lyrics transcription using dilated convolutional neural networks
-    image_url: posts/transformer_hybridASR/hybridASR.png
+    image_url: figures/ijcnn2020.png
     web_url: https://arxiv.org/abs/2007.06486
-    description: Conference paper published in the Proceedings of IJCNN2020. Novel neural network architecture. State-of-the-art results in automatic lyrics transcription from monophonic recordings.
+    description: Conference paper published in the Proceedings of IJCNN2020. Novel neural network architecture. State-of-the-art results in automatic lyrics transcription from monophonic recordings. Collaboration with Simon Dixon and Sven Ahlback.
     
   - name: MIREX 2019 - Audio-to-Lyrics Alignment Challenge
     image_url: figures/mirex2019.png
     web_url: https://www.music-ir.org/mirex/abstracts/2019/ED1.pdf
+    description: GMM-HMM based lyrics alignment. A system I built during my first PhD year, submitted for MIREX2019. Paper may have some important details for beginners of ALT technology.
+
 
   - name: Audio-aligned jazz harmony dataset for automatic chord transcription and corpus-based research
     image_url: figures/jaah.png
     web_url: https://repositori.upf.edu/handle/10230/36716
+    description: Open-source Jazz dataset consisting of historic recordings. Bar-level chord, instrument and structure annotations available. Paper conducts Jazz harmony analysis. Collaboration with Xavier Serra and Vsevolod Eremenko
 
 
+  - name: Automatic chord-scale recognition using harmonic pitch class profiles
+    image_url: figures/chordscale.png
+    web_url: https://repositori.upf.edu/bitstream/handle/10230/41706/demirel_smc_auto.pdf?sequence=1&isAllowed=y
+    description: My master thesis work, published at SMC2019. The first application of automatic chord-scale detection from Jazz improvisation. Chord-scale templates learned via GMMs. Paper contains link to an open-source dataset I used for this task.
 
+  - name: Automatic Makam recognition using chroma features
+    image_url: figures/kanun.png
+    web_url: https://repositori.upf.edu/bitstream/handle/10230/36715/demirel_fma_auto.pdf?sequence=1&isAllowed=y
+    description: State-of-the-art in automatic Makam recognition. Paper contains link to the code. The system can tell you which (dominant) makam type your input song is played on. Contact me for potential collaborations. Collaboration with Baris Bozkurt and Xavier Serra.
+
+  - name: Implications of Various Licensing Modes in the Context of Open Science
+    image_url: figures/creativecommons.png
+    web_url: https://repositori.upf.edu/bitstream/handle/10230/34092/Meta-Research_Proceedings_2017.pdf?sequence=1&isAllowed=y#page=44
+    description: An overreview on open source licensing types regarding intellectual properties, and specifically for research software. The social and economic implications of such licensing types are examined. Collaboration with Furkan Yesiler and Kaivon Jones. Stuff we did during Master at UPF.
